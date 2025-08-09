@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+:root{
+    --cor0:#FEFADC ;
+    --cor1:#F6D4BA ;
+    --cor2:#F3B391 ;
+    --cor3:#670B33 ;
+    --cor4:#442220 ;
+    --cor5:#2E0014 ;
+
+    --fontepadrao: Arial,Helvetica,Verdana, sans-serif;
+    --fontetitulo: Times,Cambria, Cochin, Georgia, 'Times New Roman', serif;
+}
